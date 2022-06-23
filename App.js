@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import qs from 'qs';
 
 const CLIENT_ID =
-  '1056979466539-eersuk4n7v3mpg6bv5tbijrcn0fm704s.apps.googleusercontent.com';
+  '894879046086-d86mj1csnigh641m1635052sth5rsjnf.apps.googleusercontent.com';
 const AUTHORIZE_URI = 'https://accounts.google.com/o/oauth2/v2/auth';
 const PEOPLE_URI = 'https://people.googleapis.com/v1/contactGroups';
 
